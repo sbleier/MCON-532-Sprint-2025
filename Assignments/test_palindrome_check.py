@@ -11,3 +11,12 @@ class Test(TestCase):
     def test_palindrome_with_spaces(self):
         self.assertTrue(is_palindrome("A man a plan a canal Panama"))
 
+    def test_palindrome_with_spaces(self):
+        self.assertTrue(is_palindrome(""))
+
+    def test_palindrome_with_spaces(self):
+        self.assertTrue(is_palindrome("Racecar!"))
+
+    def test_palindrome_with_spaces(self):
+        self.assertTrue(is_palindrome("A"))
+
