@@ -5,7 +5,7 @@ client = get_openai_client()
 pprint(vars(client))
 
 completion = client.chat.completions.create(
-    model="gpt-4-turbo",  # Use a valid OpenAI model name
+    model="gpt-3.5-turbo",  # Use a valid OpenAI model name
     messages=[
         {
             "role": "user",
