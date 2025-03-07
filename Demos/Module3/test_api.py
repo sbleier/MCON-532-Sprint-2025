@@ -8,9 +8,14 @@ completion = client.chat.completions.create(
     model="gpt-3.5-turbo",  # Use a valid OpenAI model name
     messages=[
         {
+            "role": "system",
+            "content": "You are a helpful assistent"
+        },
+        {
             "role": "user",
             "content": "When was state of Israel founded?"
-        }
+        },
+
     ]
 )
 pprint(completion)
