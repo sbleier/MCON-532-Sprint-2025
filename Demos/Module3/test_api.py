@@ -8,7 +8,7 @@ pprint(vars(client))
 completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
-        {"role": "user" "content": "Create a Python dictionary where each student ID maps to another dictionary containing:"
+        {"role": "user", "content": "Create a Python dictionary where each student ID maps to another dictionary containing:"
         "'name': Student’s name (string)"
         "'grades: A list of grades (integers)."
         "'gpa: The GPA, calculated as (sum of grades / number of grades) / 25, rounded to two decimal places."
