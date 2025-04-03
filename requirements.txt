@@ -2,5 +2,4 @@ requests
 openai
 python-dotenv
 django
-python-dotenv
 djangorestframework
