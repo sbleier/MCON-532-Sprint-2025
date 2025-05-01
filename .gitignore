@@ -2,4 +2,5 @@
 venv/*
 src/.env
 **/.pyc
+Timely/.env
 
