@@ -128,3 +128,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+GOOGLE_CLIENT_SECRET_FILE = os.path.join(BASE_DIR, 'credentials.json')
+GOOGLE_REDIRECT_URI = 'http://localhost:8001/calendar/oauth2callback'
