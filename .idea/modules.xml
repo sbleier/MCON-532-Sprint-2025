@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MCON-532-Sprint-2025.iml" filepath="$PROJECT_DIR$/MCON-532-Sprint-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MCON-532-Sprint-2025.iml" filepath="$PROJECT_DIR$/.idea/MCON-532-Sprint-2025.iml" />
     </modules>
   </component>
 </project>
