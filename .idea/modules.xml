@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MCON-532-FORK.iml" filepath="$PROJECT_DIR$/MCON-532-FORK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demos/Demos.iml" filepath="$PROJECT_DIR$/Demos/Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timely/Timely.iml" filepath="$PROJECT_DIR$/Timely/Timely.iml" />
     </modules>
   </component>
 </project>
