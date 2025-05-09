@@ -1,3 +1,12 @@
 requests
 openai
 python-dotenv
+django
+djangorestframework
+psycopg2-binary
+numpy
+pandas
+scikit-learn
+google-auth
+google-auth-oauthlib
+google-api-python-client
