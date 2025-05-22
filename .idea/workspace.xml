@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c2770e-8113-40c3-9fc3-59987a5453ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/working_with_dates.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Timely/Timely/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Timely/Timely/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Timely/chat/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Timely/chat/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Timely/chat/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Timely/chat/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Timely/chat/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,7 @@
       <workItem from="1746801067813" duration="1864000" />
       <workItem from="1747261946154" duration="22000" />
       <workItem from="1747262038828" duration="736000" />
-      <workItem from="1747347071330" duration="5459000" />
+      <workItem from="1747347071330" duration="6405000" />
     </task>
     <servers />
   </component>
